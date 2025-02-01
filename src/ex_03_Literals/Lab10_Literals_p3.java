@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab031_Literals_p3 {
+public class Lab10_Literals_p3 {
     public static void main(String[] args) {
         //interview Question is this a valid code
 

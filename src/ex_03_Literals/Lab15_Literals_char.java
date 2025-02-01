@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab036_Literals_char {
+public class Lab15_Literals_char {
     public static void main(String[] args) {
         //Write a program to check if a given character is a vowel.
         char letter = 'N';

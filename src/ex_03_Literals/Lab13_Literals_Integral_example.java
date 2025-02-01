@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab034_Literals_Integral_example {
+public class Lab13_Literals_Integral_example {
     public static void main(String[] args) {
         //Write a program to calculate the total cost of items in a store.
         // You have 3 apples priced at $2 each, 5 bananas priced at $1 each,

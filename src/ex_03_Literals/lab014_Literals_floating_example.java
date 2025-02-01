@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class lab035_Literals_floating_example {
+public class lab014_Literals_floating_example {
     public static void main(String[] args) {
         //Write a program to calculate the average of marks
         // in 5 subjects: 89.5, 78.0, 94.5, 88.0, and 76.5.
