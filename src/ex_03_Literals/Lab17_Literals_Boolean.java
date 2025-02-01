@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab039_Literals_Boolean {
+public class Lab17_Literals_Boolean {
     public static void main(String[] args) {
         //Write a program to check if a number is positive.
         int num = -1;
