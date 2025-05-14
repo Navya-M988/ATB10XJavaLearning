@@ -8,9 +8,9 @@ public class Lab20_Operators_Logical {
 
 
         int a = 5, b = 10;
-        System.out.println((a > 2) && (b < 20));
-        System.out.println((a > 6) && (b < 20));
-        System.out.println((a > 2) && (b > 20));
+        System.out.println((a>2) && (b<20));
+        System.out.println((a>6) && (b<20));
+        System.out.println((a>2) && (b>20));
 
 
 
